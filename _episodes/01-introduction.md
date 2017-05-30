@@ -24,7 +24,7 @@ OpenRefine is most useful where you have data in a simple tabular format but wit
 * Resolve inconsistencies in a data set
 * Help you split data up into more granular parts
 * Match local data up to other data sets
-* Enhance a data set with data from other sources
+* Enhance a data set with data from other sources -- like from all the sites now disappeared from the government.
 
 Some common scenarios might be:
 
