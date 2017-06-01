@@ -41,9 +41,9 @@ If you haven't already, at this point download [doaj-article-sample.csv](https:/
 >2. Ensure the first row is used to create the column headings
 >3. Make sure OpenRefine doesn't try to automatically detect numbers and dates
 >
->    Once you are happy click `Create Project >>`
+>    Once you are satisfied click `Create Project >>`
 >
->    This will create the project and open it for you. Projects are saved as you work on them, there is no need to save copies as you go along.
+>    This will create the project and open it for you. Projects are saved as you work on them; there is no need to save copies as you go along.
 {: .challenge}
 
 To open an existing project in OpenRefine you can click 'Open Project' from the main OpenRefine screen (in the left hand menu). When you click this, you will see a list of the existing projects and can click on a project's name to open it.
